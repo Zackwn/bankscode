@@ -1,0 +1,414 @@
+[
+  {
+    "key": "11",
+    "description": "Profissional liberal ou autônomo"
+  },
+  {
+    "key": "12",
+    "description": "Proprietário de empresa ou de firma individual"
+  },
+  {
+    "key": "13",
+    "description": "*Capitalista, que auferiu rendimentos de capital"
+  },
+  {
+    "key": "72",
+    "description": "*Bolsista"
+  },
+  {
+    "key": "211",
+    "description": "Matemático, estatístico, atuário e afins"
+  },
+  {
+    "key": "212",
+    "description": "Analista de sistemas, desenvolvedor de software"
+  },
+  {
+    "key": "213",
+    "description": "Físico, químico, meteorol./geólogo/oceanógrafo"
+  },
+  {
+    "key": "214",
+    "description": "Engenheiro, arquiteto e afins"
+  },
+  {
+    "key": "215",
+    "description": "Piloto de aeronaves"
+  },
+  {
+    "key": "221",
+    "description": "Biólogo, biomédico e afins"
+  },
+  {
+    "key": "222",
+    "description": "Agrônomo e afins"
+  },
+  {
+    "key": "224",
+    "description": "Profissional da educação física (exceto professor)"
+  },
+  {
+    "key": "225",
+    "description": "Médico"
+  },
+  {
+    "key": "226",
+    "description": "Médico, odontólogo e afins"
+  },
+  {
+    "key": "227",
+    "description": "Enfermeiro (superior), nutricionista, farmacêutico"
+  },
+  {
+    "key": "228",
+    "description": "Veterinário e Zootecnista"
+  },
+  {
+    "key": "229",
+    "description": "Fonoaudiólogo, fisioterapeuta, terapeuta ocupac."
+  },
+  {
+    "key": "241",
+    "description": "Advogado"
+  },
+  {
+    "key": "250",
+    "description": "Sociólogo e cientista político"
+  },
+  {
+    "key": "251",
+    "description": "Antropólogo e arqueólogo"
+  },
+  {
+    "key": "252",
+    "description": "Economista, administrador, contador, auditor"
+  },
+  {
+    "key": "253",
+    "description": "Profissional de marketing e publicidade"
+  },
+  {
+    "key": "255",
+    "description": "Psicólogo e psicanalista"
+  },
+  {
+    "key": "256",
+    "description": "Geógrafo"
+  },
+  {
+    "key": "257",
+    "description": "Historiador"
+  },
+  {
+    "key": "258",
+    "description": "Assistente social e economista doméstico"
+  },
+  {
+    "key": "259",
+    "description": "Filósofo"
+  },
+  {
+    "key": "261",
+    "description": "Jornalista e repórter"
+  },
+  {
+    "key": "263",
+    "description": "Sacerdote ou membro de ordens ou seitas religiosas"
+  },
+  {
+    "key": "264",
+    "description": "Tradutor, intérprete, filólogo"
+  },
+  {
+    "key": "265",
+    "description": "Bibliotecário, arquivólogo, museólogo"
+  },
+  {
+    "key": "266",
+    "description": "Escritor, crítico, redator"
+  },
+  {
+    "key": "271",
+    "description": "Locutor, comentarista"
+  },
+  {
+    "key": "272",
+    "description": "Ator, diretor de espetáculos"
+  },
+  {
+    "key": "273",
+    "description": "Cantor e compositor"
+  },
+  {
+    "key": "274",
+    "description": "Músico, arranjador, regente de orquestra ou coral"
+  },
+  {
+    "key": "275",
+    "description": "Desenhista industrial (designer), escultor/pintor"
+  },
+  {
+    "key": "276",
+    "description": "Cenógrafo, decorador de interiores"
+  },
+  {
+    "key": "277",
+    "description": "Empresário e produtor de espetáculos"
+  },
+  {
+    "key": "279",
+    "description": "Outros profissionais do espetáculo e das artes"
+  },
+  {
+    "key": "290",
+    "description": "Professor na educação infantil"
+  },
+  {
+    "key": "291",
+    "description": "Professor do ensino fundamental"
+  },
+  {
+    "key": "292",
+    "description": "Professor do ensino médio"
+  },
+  {
+    "key": "293",
+    "description": "Professor do ensino profissional"
+  },
+  {
+    "key": "294",
+    "description": "Professor do ensino superior"
+  },
+  {
+    "key": "295",
+    "description": "Instrutor e professor de escolas livres"
+  },
+  {
+    "key": "296",
+    "description": "Pedagogo, orientador educacional"
+  },
+  {
+    "key": "311",
+    "description": "Técnico em ciências físicas e químicas"
+  },
+  {
+    "key": "312",
+    "description": "Técnico em construção civil, de edifica. e obras"
+  },
+  {
+    "key": "313",
+    "description": "Técnico em eletro-eletrônica e fotônica"
+  },
+  {
+    "key": "314",
+    "description": "Técnico em metalmecânica"
+  },
+  {
+    "key": "316",
+    "description": "Técnico em mineralogia e geologia"
+  },
+  {
+    "key": "317",
+    "description": "Técnico em informática"
+  },
+  {
+    "key": "318",
+    "description": "Desenhista técnico e modelista"
+  },
+  {
+    "key": "319",
+    "description": "Outros técnicos de nível médio das ciências exatas"
+  },
+  {
+    "key": "320",
+    "description": "Técnico em biologia"
+  },
+  {
+    "key": "321",
+    "description": "Técnico da produção agropecuária"
+  },
+  {
+    "key": "322",
+    "description": "Técnico da ciência da saúde humana"
+  },
+  {
+    "key": "323",
+    "description": "Técnico da ciência da saúde animal"
+  },
+  {
+    "key": "324",
+    "description": "Técnico de laboratório, Raios-X e diagnóstico"
+  },
+  {
+    "key": "325",
+    "description": "Técnico de bioquímica e da biotecnologia"
+  },
+  {
+    "key": "328",
+    "description": "Técnico de conservação e dissecação de corpos"
+  },
+  {
+    "key": "341",
+    "description": "Técnico em naveg. aérea, marítima, fluv. e metro."
+  },
+  {
+    "key": "342",
+    "description": "Técnico em transportes (logística)"
+  },
+  {
+    "key": "351",
+    "description": "Técnico das ciências administrativas e contábeis"
+  },
+  {
+    "key": "352",
+    "description": "Técnico de inspeção, fiscaliz. e coord. admin."
+  },
+  {
+    "key": "353",
+    "description": "Agente de Bolsa de Valores e câmbio"
+  },
+  {
+    "key": "354",
+    "description": "Agente e represent. comercial, corretor, leiloeiro"
+  },
+  {
+    "key": "371",
+    "description": "Técnico de serviços culturais"
+  },
+  {
+    "key": "372",
+    "description": "Cinegrafista, fotógrafo"
+  },
+  {
+    "key": "373",
+    "description": "Técnico em opera. de estações de rádio e televisão"
+  },
+  {
+    "key": "374",
+    "description": "Téc. em oper. de aparelhos de sonorização e cenog."
+  },
+  {
+    "key": "375",
+    "description": "Decorador e vitrinista"
+  },
+  {
+    "key": "376",
+    "description": "Apresentador, artistas de artes populares"
+  },
+  {
+    "key": "377",
+    "description": "Atleta, desportista e afins"
+  },
+  {
+    "key": "391",
+    "description": "Outros técnicos de nível médio"
+  },
+  {
+    "key": "410",
+    "description": "Bancário, escriturário, assist. e aux. admin."
+  },
+  {
+    "key": "420",
+    "description": "Trab. de atend. ao púb., despachante, recenseador"
+  },
+  {
+    "key": "511",
+    "description": "Comiss. de bordo, guia de tur., agente de viagem"
+  },
+  {
+    "key": "512",
+    "description": "Trabalhador dos serviços domésticos em geral"
+  },
+  {
+    "key": "513",
+    "description": "Trab. dos serviços de hotelaria e alimentação"
+  },
+  {
+    "key": "514",
+    "description": "Trab. de admin., conservação e manut. de edifícios"
+  },
+  {
+    "key": "515",
+    "description": "Trabalhador dos serviços de saúde"
+  },
+  {
+    "key": "516",
+    "description": "Trab. dos serv. de cuidados pessoais"
+  },
+  {
+    "key": "517",
+    "description": "Trab. dos serv. de segurança (exceto militar)"
+  },
+  {
+    "key": "518",
+    "description": "Motorista e condutor do transporte de passageiros"
+  },
+  {
+    "key": "519",
+    "description": "Outros trabalhadores de serviços diversos"
+  },
+  {
+    "key": "520",
+    "description": "Supervisor de vendas e prest. de serv. do comércio"
+  },
+  {
+    "key": "529",
+    "description": "Vendedor e prestador de serviços do comércio"
+  },
+  {
+    "key": "610",
+    "description": "Produtor na exploração agropecuária"
+  },
+  {
+    "key": "620",
+    "description": "Trabalhador na exploração agropecuária"
+  },
+  {
+    "key": "630",
+    "description": "Pescador, caçador e extrativista florestal"
+  },
+  {
+    "key": "640",
+    "description": "Operador de máquina agropecuária e florestal"
+  },
+  {
+    "key": "710",
+    "description": "Trab. da ind. extrativa e da construção civil"
+  },
+  {
+    "key": "720",
+    "description": "Trab. da transformação de metais e compósitos"
+  },
+  {
+    "key": "730",
+    "description": "Trab. da fabricação e instalação eletro-eletrônica"
+  },
+  {
+    "key": "740",
+    "description": "Montador de aparelhos e instr. musicais"
+  },
+  {
+    "key": "750",
+    "description": "Joalheiro, vidreiro, ceramista e afins"
+  },
+  {
+    "key": "760",
+    "description": "Trab. das ind. têxteis, do vestuário e das artes"
+  },
+  {
+    "key": "770",
+    "description": "Trabalhador das ind. de madeira e do mobiliário"
+  },
+  {
+    "key": "870",
+    "description": "Trabalhador de outras instalações agroindustriais"
+  },
+  {
+    "key": "900",
+    "description": "Trabalhador de reparação e manutenção"
+  },
+  {
+    "key": "000",
+    "description": "Outras ocupações não classificadas anteriormente"
+  }
+]
